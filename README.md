@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @pratikpotdukhe30
-- 👀 I’m interested in web development, AI & coding
-- 💼 Worked as a software engineer at Capgemini from March 2022 to August 2024
-- 🎓 Currently pursuing an MSc in Computer Science & Engineering at Politecnico di Milano
-- 💞️ I’m looking to collaborate on web development and AI projects
-- 📫 How to reach me - My linkedIN profile link www.linkedin.com/in/pratik-potdukhe-482b69179
+### Hi, I'm Pratik
 
+I build machine learning and LLM applications. I'm doing an MSc in Computer Science and Engineering at Politecnico di Milano, and I'm based in Milan.
+
+Before that, from March 2022 to August 2024, I worked at Capgemini as a Software Engineer building Java and Spring Boot services for Stellantis.
+
+**AI / ML:** LangChain · RAG · TensorFlow · Keras · CNNs · Federated learning
+**Engineering:** Python · Java · Spring Boot · FastAPI · React · TypeScript · SQL · Google Cloud · Docker
+
+Email: pratikatpolimi@gmail.com · [LinkedIn](https://www.linkedin.com/in/pratik-potdukhe/)
