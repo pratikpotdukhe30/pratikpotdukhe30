@@ -1,6 +1,6 @@
 ### Hi, I'm Pratik 👋
 
-Backend & AI Engineer based in Milan. I spent 2+ years at **Capgemini** building Java and Spring Boot services for **Stellantis**, a platform used by dealers across Europe and processing 10M+ transactions a month. Now I'm doing my **M.Sc. in Computer Science and Engineering (AI)** at Politecnico di Milano, focused on LLM applications and agentic AI.
+Backend & AI Engineer based in Milan. Previously I worked at **Capgemini** for 2+ years building Java and Spring Boot services for **Stellantis**, a platform used by dealers across Europe and processing 10M+ transactions a month. Currently I'm doing my **M.Sc. in Computer Science and Engineering (AI)** at Politecnico di Milano, focused on LLM applications and agentic AI.
 
 **What I've built**
 - 🌱 **[Plant Disease Classification](https://github.com/pratikpotdukhe30/naml_cnn)**: 3 CNN models (incl. MobileNetV2 transfer learning) on 18,000+ images, up to 99.2% test accuracy, served via Google Cloud Functions to a React web app and a React Native Android app
